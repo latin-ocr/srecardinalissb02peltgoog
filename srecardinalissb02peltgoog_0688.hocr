@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./srecardinalissb02peltgoog_0688.png"; bbox 0 0 4059 6317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 533 302 1173 1006">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 533 302 1173 1006">
+     <span class='ocr_line' id='line_1_1' title="bbox 533 302 1173 1006; baseline -0.036 -257"><span class='ocrx_word' id='word_1_1' title='bbox 533 302 646 1006; x_wconf 82' lang='lat' dir='ltr'>NNNN</span> <span class='ocrx_word' id='word_1_2' title='bbox 649 494 889 746; x_wconf 96' lang='lat' dir='ltr'>NNNNNNNNNN</span> <span class='ocrx_word' id='word_1_3' title='bbox 701 486 1004 738; x_wconf 99' lang='lat' dir='ltr'>NNNN</span> <span class='ocrx_word' id='word_1_4' title='bbox 1014 482 1173 730; x_wconf 96' lang='lat' dir='ltr'>NN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 425 758 1089 846">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 425 758 1089 846">
+     <span class='ocr_line' id='line_1_2' title="bbox 425 758 1089 846; baseline -0.048 1"><span class='ocrx_word' id='word_1_5' title='bbox 425 758 1089 846; x_wconf 66' lang='lat'>12390943469135</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 161 510 525 833">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 161 510 525 833">
+     <span class='ocr_line' id='line_1_3' title="bbox 161 510 525 833; baseline -0.047 -68"><span class='ocrx_word' id='word_1_6' title='bbox 161 645 237 833; x_wconf 97' lang='grc' dir='ltr'> </span> <span class='ocrx_word' id='word_1_7' title='bbox 317 514 406 762; x_wconf 96' lang='lat' dir='ltr'>NN</span> <span class='ocrx_word' id='word_1_8' title='bbox 389 510 525 758; x_wconf 96' lang='lat' dir='ltr'>NNN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 272 3305 6308">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 272 3305 6308">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 272 3305 6308; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 272 3305 6308; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
